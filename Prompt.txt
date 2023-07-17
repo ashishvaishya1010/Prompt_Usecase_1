@@ -1,0 +1,105 @@
+Prompt :- "You are expert in writing topic related to cricket, 
+           You have to describe the Player AB De villiers in following headings 
+		    like -Introduction, Player best 5 inning,  Conclusion with its summary or benefits for team"
+		   
+Approach 1 Response :-
+        Introduction:-AB de Villiers, widely regarded as one of the most talented cricketers of his generation,
+					  is a South African batting maestro who has enthralled cricket fans around the world with his 
+					  extraordinary skills and versatility. Born on February 17, 1984, in Pretoria, South Africa, 
+					  De Villiers quickly rose through the ranks to establish himself as a match-winner and a 
+					  game-changer in the world of cricket. Known for his innovative stroke play, 
+					  exceptional athleticism, and remarkable ability to adapt to various roles in the team, 
+					  De Villiers is often referred to as "Mr. 360" for his ability to hit the ball to all parts of the ground.
+
+Player's Best 5 Innings:-
+162* off 66 balls vs. West Indies (ICC Cricket World Cup 2015): In a breathtaking display of power-hitting,
+De Villiers showcased his ability to decimate the opposition with an unbeaten 162 off just 66 deliveries. 
+His innings included 17 sixes, which is the most by any player in an ODI inning. It remains one of the most 
+explosive and entertaining innings in cricket history.
+
+119 off 61 balls vs. India (IPL 2016): Playing for the Royal Challengers Bangalore, De Villiers played a 
+scintillating knock against a strong Indian bowling attack. He blasted 119 runs off just 61 balls, featuring 
+five boundaries and 12 sixes. His ability to score quickly and dismantle the opposition's bowlers was on full 
+display, leaving fans and opponents in awe.
+
+278* off 418 balls vs. Pakistan (Abu Dhabi, 2010): In a Test match against Pakistan, De Villiers exhibited his 
+exceptional temperament and technical prowess by scoring an unbeaten 278. His marathon innings spanned 418 balls 
+and included 23 boundaries and six sixes. It demonstrated his ability to adapt to the longer format of the game 
+and play a patient yet commanding innings.
+
+149 off 44 balls vs. West Indies (Johannesburg, 2015): De Villiers etched his name in cricketing folklore with 
+this extraordinary innings. He pulverized the West Indies bowling attack, smashing 149 runs off just 44 balls, 
+including 16 sixes and nine boundaries. This remarkable display of power-hitting earned him the record for the 
+fastest century in ODI cricket off just 31 balls.
+
+162 off 66 balls vs. Australia (Perth, 2008): In an ODI against Australia, De Villiers played a breathtaking innings, 
+scoring 162 runs off only 66 balls. His knock comprised of 17 boundaries and eight sixes, leaving the Australian bowlers 
+stunned. This innings showcased his ability to dominate one of the toughest bowling attacks in the world.
+
+Conclusion:
+AB de Villiers' impact on the game of cricket is immeasurable. His ability to adapt to different formats, 
+his innovative stroke play, and his unmatched versatility have made him a prized asset for any team he represents.
+Whether it's his audacious power-hitting or his sublime stroke play, De Villiers consistently delivers match-winning 
+performances. His presence in the team not only boosts the batting lineup but also brings a sense of confidence 
+and stability to the entire squad.
+
+De Villiers' ability to score runs quickly and under pressure has time and again proven to be a game-changer. 
+His unorthodox shot selection and ability to hit the ball 360 degrees around the field make him a nightmare for bowlers. 
+Moreover, his athleticism on the field adds value in the form of breathtaking catches and agile wicketkeeping 
+skills when required.
+
+In summary, AB de Villiers is a cricketing genius, whose talent and versatility have made him a legend of the game. 
+His extraordinary innings and match-winning performances have brought joy to millions of cricket fans around the world. 
+His ability to adapt to various roles, dominate any opposition, and his passion for the game make him an invaluable 
+asset for any team lucky enough to have him in their ranks.		   
+
+***************************************************************************************************************************************************
+
+Prompt 2   :-"You are expert in writing topic related to cricket, You have to describe the 
+              Player AB De villiers  Introduction about his only one IPL  
+		      Century  give one paragraph"
+
+Approach 2 Response :-
+         AB de Villiers, the South African batting sensation, etched his name in the annals of the 
+		 Indian Premier League (IPL) with a scintillating century that showcased his immense talent and 
+		 match-winning capabilities. In a mesmerizing display of power-hitting and exceptional shot selection, 
+		 De Villiers carved his way to a remarkable century, leaving fans and opponents in awe. With his audacious 
+		 stroke play, unwavering composure, and an array of innovative shots, De Villiers proved why he is regarded 
+		 as one of the most dynamic and impactful players in the history of the IPL. This century stands as a testament 
+		 to his ability to dominate any bowling attack, propelling his team to victory with his remarkable skills and 
+		 unwavering determination.
+
+prompt  :- "provied brief 2 inning of ab de villiers were he score fastest 100 "
+
+Response :-
+         Fastest Century in ODIs (31 balls) - On January 18, 2015, during the 2nd ODI against the West 
+		 Indies in Johannesburg, AB de Villiers showcased an astonishing display of power-hitting by scoring 
+		 the fastest century in ODI history off just 31 balls. In this whirlwind innings, De Villiers blasted 
+		 his way to an unbeaten 149 runs, which included 16 sixes and nine boundaries. His aggressive stroke 
+		 play and ability to clear the boundary at will left the opposition shell-shocked and rewrote the record 
+		 books, solidifying his reputation as one of the most destructive batsmen in limited-overs cricket.
+
+         43-ball Century against the Gujarat Lions (IPL 2016) - Representing the Royal Challengers Bangalore 
+		 in the IPL, De Villiers treated the spectators to a breathtaking display of power-hitting on May 14, 2016. 
+		 Facing the Gujarat Lions, he smashed a scintillating century off just 43 balls. During this innings, 
+		 De Villiers unleashed his full repertoire of shots, including lofted drives, innovative flicks, and 
+		 monstrous sixes. His knock of 129 runs, which comprised of 10 boundaries and 12 sixes, not only propelled 
+		 his team to a commanding total but also left the opposition helpless in their pursuit. This innings highlighted 
+		 De Villiers' ability to change the course of a match single-handedly and showcased his exceptional timing and shot selection.
+
+         Both of these innings demonstrate AB de Villiers' ability to score runs at a remarkable pace and dominate 
+		 the opposition with his explosive stroke play. His unmatched ability to find gaps, clear the boundary at will, 
+		 and adapt to different game situations make him a force to be reckoned with in the world of cricket.
+
+*****************************************************************************************************************************************************
+
+Analysis :-
+       Analysis - Approach 1 involved generating a complete document on the topic of cricket using a 
+       single prompt. This approach allowed for a quick generation of the document as a whole. 
+	   However, it provided less flexibility in terms of fine-tuning the content or structuring 
+	   the document in a specific way.
+	   
+	   Overall, Approach 2 provided better results due to the ability to customize and refine the 
+	   document section by section. By breaking down the content and using targeted prompts, it 
+	   ensured a higher degree of control over the final output, resulting in a well-structured 
+	   document on the topic of cricket
